@@ -1,5 +1,5 @@
 # Algorithms_and_data_structures
-Python code for several data structures and algorithms. The data structures and algorithms are built using only native Python functions. Meant for educational purposes. 
+Python code for several data structures and algorithms. The data structures and algorithms are built using only native Python functions. Intended for educational purposes. 
 ## Data structures
 - Queue
 - Stack
